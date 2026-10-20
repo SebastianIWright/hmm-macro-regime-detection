@@ -1,5 +1,10 @@
 # HMM Macro Regime Detection
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SebastianIWright/hmm-macro-regime-detection/blob/main/macro_regime_detection.ipynb)
+
+📄 **[Read the 2-page research note (PDF)](HMM_research_note.pdf)** for the question, method, results, and takeaways.
+
+
 A 4-state Hidden Markov Model that reads the US economy from FRED data, labels each month as **Expansion, Stagflation, Recession, or Recovery**, and uses those labels to shift a multi-asset portfolio between stocks, bonds, gold, and commodities.
 
 ![Research Summary](images/research_summary.png)
